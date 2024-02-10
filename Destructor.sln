@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AccessModifiers", "AccessMo
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Delegate", "Delegate\Delegate.csproj", "{B9B16F60-5A00-49DE-A785-63F7FD666B87}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StructYapi", "StructYapi\StructYapi.csproj", "{8C8E27C0-BAC7-4A12-ADF7-46B22A6BED1E}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +29,10 @@ Global
 		{B9B16F60-5A00-49DE-A785-63F7FD666B87}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B9B16F60-5A00-49DE-A785-63F7FD666B87}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B9B16F60-5A00-49DE-A785-63F7FD666B87}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8C8E27C0-BAC7-4A12-ADF7-46B22A6BED1E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8C8E27C0-BAC7-4A12-ADF7-46B22A6BED1E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8C8E27C0-BAC7-4A12-ADF7-46B22A6BED1E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8C8E27C0-BAC7-4A12-ADF7-46B22A6BED1E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
