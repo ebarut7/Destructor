@@ -1,4 +1,5 @@
-﻿using Destructor.Models;
+﻿using AccessModifiers;
+using Destructor.Models;
 
 namespace Destructor
 {
@@ -15,7 +16,7 @@ namespace Destructor
             }
             // Destructor : Yikici metot sinifin isi bittiginde calisacak metodudur. Gc temizleyecegi anda artik nesnenin isis bitmis demektir ve temzilenmeden once destructor sayesinde son islemlerini gerceklestirir.
 
-
+            
         }
     }
 }
