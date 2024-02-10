@@ -13,7 +13,6 @@ namespace Destructor
                 new Araba();
                 GC.Collect();
             }
-           
             // Destructor : Yikici metot sinifin isi bittiginde calisacak metodudur. Gc temizleyecegi anda artik nesnenin isis bitmis demektir ve temzilenmeden once destructor sayesinde son islemlerini gerceklestirir.
 
 
